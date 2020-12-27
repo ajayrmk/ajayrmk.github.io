@@ -25,79 +25,24 @@ export const aboutData = {
    paragraphThree:
       'If you find my profile interesting or want to reach out for anything, go to the contact section. If you want to know more about me, find my resume here.',
    resume:
-      'https://drive.google.com/file/d/14p2Tqh01A_qp3diyXjpkcYD6FH7IQJEj/view',
+      '',
 };
 
 // PROJECTS DATA
 export const projectsData = [
-   {
-      id: nanoid(),
-      img: 'demo.png',
-      title: 'Xpense',
-      info:
-         'Personal Expense Manager',
-      info2: '',
-      repo: ' ',
-      url: ' ',
-   },
-   {
-      id: nanoid(),
-      img: 'demo.png',
-      title: 'kuttikaattil.com',
-      info:
-         'Online Grocery Store',
-      info2:
-         '',
-      repo: '  ',
-      url: ' ',
-   },
-   {
-      id: nanoid(),
-      img: 'demo.png',
-      title: 'Parava',
-      info:
-         'Tourist Guidance App',
-      info2:
-         '',
-      repo: ' ',
-      url: ' ',
-   },
+
 ];
 
 // CONTACT DATA
 export const contactData = {
    cta: 'Wanna reach out for something?',
    btn: "Write away!!",
-   email: 'ajayram192@gmail.com',
+   email:
 };
 
 // FOOTER DATA
 export const footerData = {
    networks: [
-      {
-         id: nanoid(),
-         name: 'linkedin',
-         url: 'https://www.linkedin.com/in/ajayrmk/',
-      },
-      {
-         id: nanoid(),
-         name: 'github',
-         url: 'https://github.com/ajayrmk',
-      },
-      {
-         id: nanoid(),
-         name: 'telegram',
-         url: 'https://t.me/ajayrmk',
-      },
-      {
-         id: nanoid(),
-         name: 'twitter',
-         url: 'https://twitter.com/ajayrmk',
-      },
-      {
-         id: nanoid(),
-         name: 'medium',
-         url: 'https://medium.com/@ajayrmk',
-      },
+
    ],
 };
